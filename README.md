@@ -18,6 +18,6 @@ My Expertise Includes:
 
 Additionally, I am skilled in Salesforce, UI Path, Automation Anywhere, website development, WordPress, Bootstrap, HTML5, CSS3, JavaScript, jQuery, PSD to HTML, PSD to WordPress, AngularJS, Node.js, and ReactJS, among others.
 
-<p style="font-size:30px;">Welcome to my professional portfolio—a showcase of skills, achievements, and a journey of continuous growth in IT Development."</p>
-<p style="font-size:25px;">TeamOB Cloud DB: </p>
+<b style="font-size:30px;">Welcome to my professional portfolio—a showcase of skills, achievements, and a journey of continuous growth in IT Development."</b>
+<b style="font-size:25px;">TeamOB Cloud DB: </b>
 

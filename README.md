@@ -1,5 +1,7 @@
 # Sumit
 ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/48465226-d722-469c-b04f-6670e288e510)
+![Law Firm LinkedIn page Cover Template with skyscrapers and place for text](https://github.com/srsinfosystems/Sumit/assets/7068992/bb3d52f0-edf1-4f6d-9e07-e54a5695a71f)
+
 
 <b>Hi!  I am Sumit offering you the Innovative Technology Solutions :: Ensuring Exceptional Service :: Available All The Time for Support.</b>
 

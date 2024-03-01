@@ -226,7 +226,7 @@ You've added a feature to display task progress. This could involve showing a pr
   </tr>
   <tr>
     <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/e314bf28-3e31-48d8-a765-6c608a41e38f"></td>
-    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/571a5116-7817-4632-9328-26b780cabddb"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/771ff187-0b42-49e9-bfa9-ffcb0d28c756"></td>
     <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/435b2ef2-a88b-40fe-9aaf-5db564fc3b1a"></td>
   
   </tr>

@@ -187,4 +187,50 @@ In this Software, I have provided option to upload multiple shift and assign to 
   </tr>
  </table>
 
+  <b>Google App Script: Task Management</b>
+ 
+<b>Project Description</b>
+
+Custom Task Menu with Submenus:
+
+I have created a custom menu within your Google Sheets or Google Workspace application.
+This menu includes submenus such as "Create Task," "Task Status," and "Select All Tasks."
+
+Task Listing:
+
+The "Create Task" submenu allows users to add new tasks. This likely involves a form or prompt for users to input task details.
+
+The "Task Status" submenu likely displays a list of tasks along with their current statuses. Users can view and manage the status of existing tasks from here.
+
+The "Select All Tasks" submenu provides a way to select multiple tasks at once, streamlining the task management process.
+Task Assignment:
+
+You've implemented functionality to assign tasks to specific employees. This involves updating the task status on the server to reflect the assignment.
+
+Task Status Update:
+
+When tasks are assigned to employees, the status of these tasks is updated on the server. This ensures that the system accurately reflects the current state of each task.
+
+Task Progress Display:
+
+You've added a feature to display task progress. This could involve showing a progress bar, percentage completion, or other indicators that provide users with insights into the status of ongoing tasks.
+
+<b>Build in Google App Script, Cake PHP, Python</b>
+
+<table>
+  <tr>
+    <td><b>Google App Script Task Custom Menu</b></td>
+     <td><b>Task Listing</b></td>
+     <td><b>Task Status ( Open, close, resolve, reopen )</b></td>
+ 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/e314bf28-3e31-48d8-a765-6c608a41e38f"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/571a5116-7817-4632-9328-26b780cabddb"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/435b2ef2-a88b-40fe-9aaf-5db564fc3b1a"></td>
+  
+  </tr>
+ </table>
+
+
 

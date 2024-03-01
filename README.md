@@ -22,14 +22,15 @@ Additionally, I am skilled in Salesforce, UI Path, Automation Anywhere, website 
 &nbsp;
 &nbsp;
 <strong style="font-size:25px;">TeamOB Cloud DB: </strong>
-![image](https://github.com/srsinfosystems/Sumit/assets/7068992/2c38f6e3-f1c1-45c8-a9b1-ae0ebd734d1d) 
-![image](https://github.com/srsinfosystems/Sumit/assets/7068992/8194629e-deba-4db9-b367-a4e8c8dd1f30) ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/17d2738c-627b-4102-a5f7-9079c5511645)
 
-
-| First Header  | Second Header |
+|  | |
 | ------------- | ------------- |
-|![image](https://github.com/srsinfosystems/Sumit/assets/7068992/2c38f6e3-f1c1-45c8-a9b1-ae0ebd734d1d)  | ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/8194629e-deba-4db9-b367-a4e8c8dd1f30)  |
-| Content Cell  | Content Cell  |
+| ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/0cf763a7-9dfc-498f-904a-41c8e2ca26e3)
+  | ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/d71fb68d-b992-4045-a399-5767052e702f)
+ |
+| ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/95ed6cea-d809-4132-9b0a-c13a6976803f)
+ |![image](https://github.com/srsinfosystems/Sumit/assets/7068992/e33e29cc-8944-49d6-8853-a8d8af14e7e0)
+  |
 
 <b>Project description</b>
 Experience seamless data management with TeamOB Cloud DB – a powerful platform that lets you effortlessly create and customize databases on the cloud. Store and organize records and files of any kind with ease. Our mobile app ensures convenient access, offering a user-friendly interface for your data needs. Elevate your workflow with built-in rules for efficient data management. Download now and unlock the potential of hassle-free cloud-based database solutions! 

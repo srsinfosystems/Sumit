@@ -43,10 +43,10 @@ table, th, td {
 <th></th>
   </tr>
   <tr>
-    <td>![image](https://github.com/srsinfosystems/Sumit/assets/7068992/466068d5-9dea-4d1c-887f-b06776f8aa0f)</td>
-    <td>![image](https://github.com/srsinfosystems/Sumit/assets/7068992/2c38f6e3-f1c1-45c8-a9b1-ae0ebd734d1d)</td>
-    <td>![image](https://github.com/srsinfosystems/Sumit/assets/7068992/8194629e-deba-4db9-b367-a4e8c8dd1f30)</td>
-<td>![image](https://github.com/srsinfosystems/Sumit/assets/7068992/17d2738c-627b-4102-a5f7-9079c5511645)</td>
+    <td><img srs="https://github.com/srsinfosystems/Sumit/assets/7068992/466068d5-9dea-4d1c-887f-b06776f8aa0f"></td>
+    <td><img srs="https://github.com/srsinfosystems/Sumit/assets/7068992/2c38f6e3-f1c1-45c8-a9b1-ae0ebd734d1d"></td>
+    <td><img srs=="https://github.com/srsinfosystems/Sumit/assets/7068992/8194629e-deba-4db9-b367-a4e8c8dd1f30"></td>
+<td><img srs="https://github.com/srsinfosystems/Sumit/assets/7068992/17d2738c-627b-4102-a5f7-9079c5511645"></td>
   </tr>
   
 </table>

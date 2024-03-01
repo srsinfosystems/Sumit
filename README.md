@@ -32,8 +32,7 @@ Experience seamless data management with TeamOB Cloud DB – a powerful platform
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="![image](https://github.com/srsinfosystems/Sumit/assets/7068992/2f7c71a5-3067-4fc5-b4fd-de79c6ac2d6d)
-" width=270 height=480></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/2f7c71a5-3067-4fc5-b4fd-de79c6ac2d6d" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
   </tr>

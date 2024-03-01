@@ -233,4 +233,36 @@ You've added a feature to display task progress. This could involve showing a pr
  </table>
 
 
+  <b>Resume Generator - Google App Scripts</b>
+ 
+<b>Project Description</b>
+
+I have developed a resume generator using Google Apps Script to streamline the process for consultancies in creating suitable resumes for candidates and facilitating seamless submissions. This innovative solution not only enhances efficiency but also ensures that the resumes generated are tailored to meet the specific needs and requirements of the consultancy.
+
+My resume generator not only saves time but also ensures consistency and professionalism in the resumes submitted, reflecting positively on the consultancy's brand image. By leveraging Google Apps Script, I've created a user-friendly and accessible tool that can be easily integrated into the workflow of the consultancy, allowing for a more streamlined and organized recruitment process.
+
+This solution is likely to lead to improved candidate selection as the generated resumes are crafted in a way that aligns with the consultancy's criteria and preferences. The automation provided by your Google Apps Script will likely enhance the overall recruitment experience for both the consultancy and the candidates.
+
+As the job market becomes increasingly competitive, your resume generator stands out as a valuable tool that empowers consultancies to stay ahead in the recruitment game. It not only showcases your technical skills but also demonstrates a keen understanding of the challenges faced in the hiring process and a proactive approach to addressing them. 
+
+<b>Build in Google App Script, Cake PHP, Python</b>
+
+<table>
+  <tr>
+    <td><b>Google App Script Custom Menu</b></td>
+     <td><b>Upload Resume</b></td>
+     <td><b>Generate Resume( Open, close, resolve, reopen )</b></td>
+ 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/4bddf0e8-a56f-4756-898f-12d861b2fefa"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/a0acd8c2-6e07-4966-b934-f5ce64c7d389"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/d2354edd-6e80-405d-826c-926a6fe041bc"></td>
+  
+  </tr>
+ </table>
+
+
+
+
 

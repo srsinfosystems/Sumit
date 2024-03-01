@@ -42,8 +42,7 @@ Experience seamless data management with TeamOB Cloud DB – a powerful platform
 
 <strong style="font-size:25px;">TeamOB Field Staff Tracking: </strong>
 <b>Project description</b>
-Project description
-Description:
+
 I have developed a robust and feature-rich Field Force mobile app using React Native, catering to the specific needs of businesses with a distributed workforce. This SaaS-based application empowers organizations to streamline their field operations and enhance productivity by effectively managing their field personnel.
 
 Key Features:
@@ -85,8 +84,7 @@ If you are seeking a reliable and experienced React Native developer who can del
   
   </tr>
  </table>
-# $$\color{#ffffff} space$$
-# $$\color{#ffffff} space$$
+
 <b>Time Tracking Software:</b>
 <b>Project Description</b>
 Time Tracking Software which provides easy timesheet, Workdiary and make team management easy. Watch each activity of employee on one platform.

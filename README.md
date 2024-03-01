@@ -25,9 +25,15 @@ Additionally, I am skilled in Salesforce, UI Path, Automation Anywhere, website 
 <b>Project description</b>
 Experience seamless data management with TeamOB Cloud DB – a powerful platform that lets you effortlessly create and customize databases on the cloud. Store and organize records and files of any kind with ease. Our mobile app ensures convenient access, offering a user-friendly interface for your data needs. Elevate your workflow with built-in rules for efficient data management. Download now and unlock the potential of hassle-free cloud-based database solutions! 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/ce4e8045-2aa5-45ce-8c6b-b9d2d05698b1)
-  | ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/b407fe1e-8e92-4481-8e47-7ce3f2d57ec8)
-  |
-| ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/ce4e8045-2aa5-45ce-8c6b-b9d2d05698b1)  | ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/b407fe1e-8e92-4481-8e47-7ce3f2d57ec8) |
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+ </table>

@@ -24,6 +24,7 @@ Additionally, I am skilled in Salesforce, UI Path, Automation Anywhere, website 
 <strong style="font-size:25px;">TeamOB Cloud DB: </strong>
 <b>Project description</b>
 Experience seamless data management with TeamOB Cloud DB – a powerful platform that lets you effortlessly create and customize databases on the cloud. Store and organize records and files of any kind with ease. Our mobile app ensures convenient access, offering a user-friendly interface for your data needs. Elevate your workflow with built-in rules for efficient data management. Download now and unlock the potential of hassle-free cloud-based database solutions! 
+<b>Front End: React Js  Backend: Python</b>
 
 <table>
   <tr>
@@ -69,6 +70,7 @@ Improved Accountability: With location tracking and attendance reporting, the ap
 Seamless Collaboration: The app facilitates seamless communication between field agents and supervisors through task notes, allowing for quick feedback, clarifications, and updates.
 
 If you are seeking a reliable and experienced React Native developer who can deliver a highly functional and intuitive Field Force mobile app tailored to your specific business requirements, I am here to help. Let's discuss how we can optimize your field operations and drive productivity with this powerful mobile application.
+<b>Front End: React Js  Backend: Python</b>
 
 <table>
   <tr>
@@ -84,3 +86,22 @@ If you are seeking a reliable and experienced React Native developer who can del
   
   </tr>
  </table>
+
+<b>Time Tracking Software</b>
+Time Tracking Software which provides easy timesheet, Workdiary and make team management easy. Watch each activity of employee on one platform.
+<b>Build in Cake PHP</b>
+<table>
+  <tr>
+    <td><b>Team Room</b></td>
+     <td><b>User Reports</b></td>
+     <td><b>Add Users/Invite users </b></td>
+ 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/644cf91a-7fae-4984-9dc4-43763c492891"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/b795107f-1a2f-4e74-a703-523d92ad651c"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/0a2ad934-65e3-4a13-90f0-a0bf22c1307b"></td>
+  
+  </tr>
+ </table>
+

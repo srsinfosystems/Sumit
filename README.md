@@ -73,17 +73,14 @@ If you are seeking a reliable and experienced React Native developer who can del
 <table>
   <tr>
     <td>Field Staff Tracking Login Screen</td>
-     <td>Task List</td>
-     <td>Create Task</td>
+     <td>Field Staff Tracking Task List</td>
+     <td>Field Staff Tracking Create Task</td>
  
   </tr>
   <tr>
-    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/f7276142-dda4-49c2-9e1d-4cdf4f925da3
-"></td>
-    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/b795107f-1a2f-4e74-a703-523d92ad651c
-"></td>
-    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/0a2ad934-65e3-4a13-90f0-a0bf22c1307b
-"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/f7276142-dda4-49c2-9e1d-4cdf4f925da3"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/b795107f-1a2f-4e74-a703-523d92ad651c"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/0a2ad934-65e3-4a13-90f0-a0bf22c1307b"></td>
   
   </tr>
  </table>

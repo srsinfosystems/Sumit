@@ -27,13 +27,13 @@ Experience seamless data management with TeamOB Cloud DB – a powerful platform
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Cloud DB Login Screen</td>
+     <td>Cloud DB Dashboard</td>
+     <td>Cloud DB Task</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/2f7c71a5-3067-4fc5-b4fd-de79c6ac2d6d" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/2f7c71a5-3067-4fc5-b4fd-de79c6ac2d6d"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/1db1115f-d92d-4408-9137-18b2b84aeec2"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/dab942ea-25ff-48d0-bdbe-9dab0fbf4d0f"></td>
   </tr>
  </table>

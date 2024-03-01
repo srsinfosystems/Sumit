@@ -245,7 +245,7 @@ This solution is likely to lead to improved candidate selection as the generated
 
 As the job market becomes increasingly competitive, your resume generator stands out as a valuable tool that empowers consultancies to stay ahead in the recruitment game. It not only showcases your technical skills but also demonstrates a keen understanding of the challenges faced in the hiring process and a proactive approach to addressing them. 
 
-<b>Build in Google App Script, Cake PHP, Python</b>
+<b>Build in Google App Script</b>
 
 <table>
   <tr>
@@ -261,6 +261,38 @@ As the job market becomes increasingly competitive, your resume generator stands
   
   </tr>
  </table>
+
+   <b>Calendar Events - Google App Scripts</b>
+ 
+<b>Project Description</b>
+
+I have developed a calendar event generator using Google Apps Script, with the added functionality of enabling users to seamlessly add events and sync them with their Gmail accounts, is a remarkable contribution. By integrating this feature, I have not only simplified the process of creating calendar events but also enhanced user experience and productivity.
+
+The option to sync events with users' Gmail accounts adds an extra layer of convenience, ensuring that important dates and activities are readily available across multiple devices. This feature reflects a forward-thinking approach, acknowledging the need for accessibility and flexibility in managing schedules.
+
+My Google Apps Script-driven solution demonstrates a commitment to user-centric design and an understanding of the importance of efficient collaboration and communication. As users can easily add and synchronize events, this functionality is likely to significantly improve their ability to stay organized and on top of their schedules.
+
+In an era where time management is crucial, my implementation is not just a technical achievement but a practical solution that aligns with the demands of a fast-paced and interconnected world. The seamless integration with Gmail adds a layer of sophistication, making your calendar event generator a valuable asset for individuals and teams seeking a streamlined and efficient scheduling process.
+
+Overall, my initiative to combine the power of Google Apps Script with the practicality of synchronized calendar events showcases my skills in providing solutions that are both technologically adept and user-friendly. This tool is poised to make a positive impact on how users manage their time and collaborate effectively through synchronized events. 
+
+<b>Build in Google App Script</b>
+
+<table>
+  <tr>
+    <td><b>Google App Script Custom Menu</b></td>
+     <td><b>Event reflected on calendar</b></td>
+     <td><b>Events fetched from calendar to Google Sheet</b></td>
+ 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/1dd77605-2227-432b-9caf-0088d73cdc5a"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/4a05c899-4ccc-41aa-aa10-94ba3b93f53c"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/6485ec6f-d811-4340-9a09-16c1e8ee08d9"></td>
+  
+  </tr>
+ </table>
+
 
 
 

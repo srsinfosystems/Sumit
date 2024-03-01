@@ -85,8 +85,8 @@ If you are seeking a reliable and experienced React Native developer who can del
   
   </tr>
  </table>
-<p style="color:#fff;">space</p>
-<pstyle="color:#fff;">space</p>
+# $$\color{#ffffff} space$$
+# $$\color{#ffffff} space$$
 <b>Time Tracking Software:</b>
 <b>Project Description</b>
 Time Tracking Software which provides easy timesheet, Workdiary and make team management easy. Watch each activity of employee on one platform.

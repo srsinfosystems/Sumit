@@ -22,7 +22,7 @@ Additionally, I am skilled in Salesforce, UI Path, Automation Anywhere, website 
 &nbsp;
 &nbsp;
 <strong style="font-size:25px;">TeamOB Cloud DB: </strong>
-![image](https://github.com/srsinfosystems/Sumit/assets/7068992/466068d5-9dea-4d1c-887f-b06776f8aa0f) ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/2c38f6e3-f1c1-45c8-a9b1-ae0ebd734d1d) 
+![image](https://github.com/srsinfosystems/Sumit/assets/7068992/2c38f6e3-f1c1-45c8-a9b1-ae0ebd734d1d) 
 ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/8194629e-deba-4db9-b367-a4e8c8dd1f30) ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/17d2738c-627b-4102-a5f7-9079c5511645)
 
 

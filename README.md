@@ -18,10 +18,13 @@ My Expertise Includes:
 
 Additionally, I am skilled in Salesforce, UI Path, Automation Anywhere, website development, WordPress, Bootstrap, HTML5, CSS3, JavaScript, jQuery, PSD to HTML, PSD to WordPress, AngularJS, Node.js, and ReactJS, among others.
 
+
 <b>Welcome to my professional portfolio—a showcase of skills, achievements, and a journey of continuous growth in IT Development.</b>
 
-<strong style="font-size:25px;">TeamOB Cloud DB: </strong>
+<strong>TeamOB Cloud DB: </strong>
+
 <b>Project description</b>
+
 Experience seamless data management with TeamOB Cloud DB – a powerful platform that lets you effortlessly create and customize databases on the cloud. Store and organize records and files of any kind with ease. Our mobile app ensures convenient access, offering a user-friendly interface for your data needs. Elevate your workflow with built-in rules for efficient data management. Download now and unlock the potential of hassle-free cloud-based database solutions! 
 <b>Front End: React Js  Backend: Python</b>
 
@@ -39,8 +42,10 @@ Experience seamless data management with TeamOB Cloud DB – a powerful platform
   
   </tr>
  </table>
+ 
 
-<strong style="font-size:25px;">TeamOB Field Staff Tracking: </strong>
+<strong>TeamOB Field Staff Tracking: </strong>
+
 <b>Project description</b>
 
 I have developed a robust and feature-rich Field Force mobile app using React Native, catering to the specific needs of businesses with a distributed workforce. This SaaS-based application empowers organizations to streamline their field operations and enhance productivity by effectively managing their field personnel.
@@ -84,9 +89,12 @@ If you are seeking a reliable and experienced React Native developer who can del
   
   </tr>
  </table>
+ 
 
 <b>Time Tracking Software:</b>
+
 <b>Project Description</b>
+
 Time Tracking Software which provides easy timesheet, Workdiary and make team management easy. Watch each activity of employee on one platform.
 <b>Build in Cake PHP</b>
 <table>
@@ -104,8 +112,11 @@ Time Tracking Software which provides easy timesheet, Workdiary and make team ma
   </tr>
  </table>
 
+
  <b>Attendance Tracking Software:</b>
+ 
 <b>Project Description</b>
+
 Attendance Tracking Software tracks each day users attendance. Captured login/logout/idle/away/work/break/total hours. Feature to generate attendance report. I have added functionality to create muster report.
 <b>Build in Cake PHP</b>
 <table>

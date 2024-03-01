@@ -104,3 +104,22 @@ Time Tracking Software which provides easy timesheet, Workdiary and make team ma
   </tr>
  </table>
 
+ <b>Attendance Tracking Software:</b>
+<b>Project Description</b>
+Attendance Tracking Software tracks each day users attendance. Captured login/logout/idle/away/work/break/total hours. Feature to generate attendance report. I have added functionality to create muster report.
+<b>Build in Cake PHP</b>
+<table>
+  <tr>
+    <td><b>User Attendance</b></td>
+     <td><b>Attendance Report</b></td>
+     <td><b>Muster Report</b></td>
+ 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/5fa79c3a-a81b-4af4-8397-368efbf12b9c"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/f7b182f1-57b0-4f58-afb5-a00578354e26"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/0569b607-a5ff-43ab-91b4-c717a7d1793f"></td>
+  
+  </tr>
+ </table>
+

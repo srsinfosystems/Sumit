@@ -164,3 +164,27 @@ In this software, I have added functionality to for admin accept/decline timeshe
   </tr>
  </table>
 
+ <b>Shift Roster Software:</b>
+ 
+<b>Project Description</b>
+
+In this Software, I have provided option to upload multiple shift and assign to employees for particular week or as per month. You can also add Holiday, Week Off, Paid Leave shift status to employees. Global Muster Report, will help you to view employees shift work hrs, present, absent, Week off, Present on week off, Paid Leave, Half day Leave, Short Leave, Holiday.
+
+<b>Build in Cake PHP, Python</b>
+
+<table>
+  <tr>
+    <td><b>Download Shift template</b></td>
+     <td><b>Assign Shift to users</b></td>
+     <td><b>Import Shift template</b></td>
+ 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/acee6ec8-a86f-4f6d-99aa-d15a3b9d9e71"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/571a5116-7817-4632-9328-26b780cabddb"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/f0daf5a5-0916-4367-9174-e770e0e38782"></td>
+  
+  </tr>
+ </table>
+
+

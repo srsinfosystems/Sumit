@@ -30,4 +30,4 @@ Experience seamless data management with TeamOB Cloud DB – a powerful platform
 | ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/ce4e8045-2aa5-45ce-8c6b-b9d2d05698b1)
   | ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/b407fe1e-8e92-4481-8e47-7ce3f2d57ec8)
   |
-| Content Cell  | Content Cell  |
+| ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/ce4e8045-2aa5-45ce-8c6b-b9d2d05698b1)  | ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/b407fe1e-8e92-4481-8e47-7ce3f2d57ec8) |

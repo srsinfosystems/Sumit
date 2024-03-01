@@ -100,7 +100,7 @@ Time Tracking Software which provides easy timesheet, Workdiary and make team ma
   <tr>
     <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/644cf91a-7fae-4984-9dc4-43763c492891"></td>
     <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/fd89728e-7443-4fbe-81a5-6b62a6eb62a4"></td>
-    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/90a27af0-a349-4449-9e8b-5ee08e068625"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/9efdf6e2-cf72-4f3a-8b70-bc526c7309cf"></td>
   
   </tr>
  </table>

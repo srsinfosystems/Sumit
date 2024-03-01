@@ -98,7 +98,9 @@ If you are seeking a reliable and experienced React Native developer who can del
 <b>Project Description</b>
 
 Time Tracking Software which provides easy timesheet, Workdiary and make team management easy. Watch each activity of employee on one platform.
+
 <b>Build in Cake PHP</b>
+
 <table>
   <tr>
     <td><b>Team Room</b></td>

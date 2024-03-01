@@ -27,9 +27,9 @@ Experience seamless data management with TeamOB Cloud DB – a powerful platform
 
 <table>
   <tr>
-    <td>Cloud DB Login Screen</td>
-     <td>Cloud DB Dashboard</td>
-     <td>Cloud DB Analytics</td>
+    <td><b>Cloud DB Login Screen</b></td>
+     <td><b>Cloud DB Dashboard</b></td>
+     <td><b>Cloud DB Analytics</b></td>
 
   </tr>
   <tr>
@@ -72,9 +72,9 @@ If you are seeking a reliable and experienced React Native developer who can del
 
 <table>
   <tr>
-    <td>Field Staff Tracking Login Screen</td>
-     <td>Field Staff Tracking Task List</td>
-     <td>Field Staff Tracking Create Task</td>
+    <td><b>Field Staff Tracking Login Screen</b></td>
+     <td><b>Field Staff Tracking Task List</b></td>
+     <td><b>Field Staff Tracking Create Task</b></td>
  
   </tr>
   <tr>

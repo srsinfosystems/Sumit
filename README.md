@@ -26,9 +26,11 @@ Additionally, I am skilled in Salesforce, UI Path, Automation Anywhere, website 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/c5025184-c2ea-4d62-91d3-d92db116e1be)
- | 
+ | ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/8c828a54-f7f6-475c-9879-e340b0424c5f)
+
   |
-| ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/d50e7752-1256-483e-b975-c36bd4f6902d)  | Content Cell  |
+| ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/d50e7752-1256-483e-b975-c36bd4f6902d)  | ![image](https://github.com/srsinfosystems/Sumit/assets/7068992/609bb0b9-d6ce-40bb-bd51-f1836c0ac9c4)
+  |
 
 <b>Project description</b>
 Experience seamless data management with TeamOB Cloud DB – a powerful platform that lets you effortlessly create and customize databases on the cloud. Store and organize records and files of any kind with ease. Our mobile app ensures convenient access, offering a user-friendly interface for your data needs. Elevate your workflow with built-in rules for efficient data management. Download now and unlock the potential of hassle-free cloud-based database solutions! 

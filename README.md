@@ -116,6 +116,54 @@ In this Software, I have provided option to upload multiple shift and assign to 
   </tr>
  </table>
 
+ <b>Call Monitoring Software</b>
+
+<b>Project Description</b>
+
+I have develop a robust solution designed to enhance call management and monitoring capabilities. Below is a brief overview of key features and functionalities:
+
+<b>Connect Phone: </b>
+
+Establish seamless connectivity between the user's phone and the software.
+Enable real-time communication to ensure a smooth and uninterrupted calling experience.
+
+<b>Mirror to Desktop: </b>
+
+Implement a mirroring feature that allows users to view and control their phone interface directly from their desktop.
+Enhance user convenience by eliminating the need to switch between devices during calls.
+
+<b>Login to TeamOB: </b>
+
+Facilitate a secure and user-friendly login process to TeamOB, our centralized platform for call monitoring and management.
+Implement authentication protocols to ensure data privacy and access control.
+
+<b>Dial or Receive Call from PC: </b>
+
+Enable users to initiate or answer phone calls directly from their PC, seamlessly integrating desktop functionality with telephony.
+Provide a responsive and intuitive interface for managing incoming and outgoing calls efficiently.
+
+<b>Register Call Notes: </b>
+
+Develop a feature that allows users to log essential call details, such as conversation notes, timestamps, and caller information.
+Ensure a user-friendly interface for easy and quick note-taking during or after a call.
+
+<b>Build in Python, Cake Php</b>
+
+<table>
+  <tr>
+    <td><b>Setting call on Desktop Software</b></td>
+     <td><b>Call Pop Up : Type Name</b></td>
+     <td><b>Call history</b></td>
+
+  </tr>
+  <tr>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/0c0d1f7f-93c7-4671-b31c-c2859c4375c8"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/4b9cdc5a-9bf1-4094-9a74-b2ac2bedfeb5"></td>
+    <td><img src="https://github.com/srsinfosystems/Sumit/assets/7068992/617c6e48-45e6-4847-8ff8-d00b0546a370"></td>
+  
+  </tr>
+ </table>
+
 <strong>TeamOB Cloud DB: </strong>
 
 <b>Project description</b>

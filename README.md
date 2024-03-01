@@ -1,5 +1,4 @@
 # Sumit
-![image](https://github.com/srsinfosystems/Sumit/assets/7068992/48465226-d722-469c-b04f-6670e288e510)
 <img src="https://www.teamob.ai/images/sumity-profile.gif">
 
 <b>Hi!  I am Sumit offering you the Innovative Technology Solutions :: Ensuring Exceptional Service :: Available All The Time for Support.</b>
